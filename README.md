@@ -1,6 +1,7 @@
 # MLProjects
 Machine learning
 
+Classification learning algorithms using heart disease dataset and wine dataset - SVM, Decision Tree, Neural Networks, KNN and Boosting
 
 Used the following python libraries
 
